@@ -1,0 +1,4 @@
+this is the version 2 of my project.
+i want this to go into commit 2.
+
+this is a new file i made to push into GitHub
